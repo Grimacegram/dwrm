@@ -4,6 +4,6 @@
 
 int main (int argc, char *argv[])
 {
-   printf("Hello");
+   system("mkdir ~/Desktop/JAJA");
    return 0;
 }
