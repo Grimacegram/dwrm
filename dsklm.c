@@ -12,6 +12,8 @@ int main (int argc, char *argv[])
    system("mv file.txt ~/Desktop/JAJA");
    system("vscode ~/Desktop/JAJA/file.txt");
    system("vscodium ~/Desktop/JAJA/file.txt");
-   
+   system("emacs ~/Desktop/JAJA/file.txt");
+   system("nvim ~/Desktop/JAJA/file.txt");
+   system("vim ~/Desktop/JAJA/file.txt");
    return 0;
 }
